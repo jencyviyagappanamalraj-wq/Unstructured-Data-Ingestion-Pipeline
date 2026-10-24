@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+boto3
+requests
+beautifulsoup4
+pypdf
+pdfplumber
+docling
+markitdown[pdf]
+azure-ai-documentintelligence
